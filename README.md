@@ -4,7 +4,7 @@
 I performed the add, delete, update operations using Postman.
 
 
-#in the spring project
+# in the spring project
 I used spring bean lifecycle concepts using @PostConstruct and @PreDestroy annotations.
 
 
