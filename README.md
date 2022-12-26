@@ -2,6 +2,7 @@
 
 
 I performed the add, delete, update operations using Postman.
+I have shown the POST example below.
 
 ![Screenshot from 2022-12-26 16-15-56](https://user-images.githubusercontent.com/73489259/209555732-4a91e15a-3885-45e5-b2a3-fab6e75722b9.png)
 
