@@ -5,8 +5,9 @@ I performed the add, delete, update operations using Postman.
 
 
 # in the spring project
-I used spring bean lifecycle concepts using @PostConstruct and @PreDestroy annotations.
 
+There are 2 separate packages under main>java> inside the spring project. One example of lifecyle. The other is the DI instance.
+I used spring bean lifecycle concepts using @PostConstruct and @PreDestroy annotations.
 
 #### PORT: 8082
 
